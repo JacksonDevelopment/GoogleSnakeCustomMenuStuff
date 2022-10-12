@@ -11,4 +11,4 @@ Or simply click the [bookmark](https://github.com/DarkSnakeGang/GoogleSnakeCusto
 * [Fishes](https://github.com/fizhes)
 * [ScienceCrafter](https://github.com/ScienceCrafter)
 * [BrightyLighty](https://github.com/BrightyLighty), technically 
-* [carlgustavh](https://github.com/carlgustavh) (Only Sprites)
+* [carlgustavh](https://github.com/carlgustavh) (Only Sprites) 
